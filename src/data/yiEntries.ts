@@ -1,0 +1,48 @@
+export interface AlmanacEntry {
+  index: number;
+  title: string;
+  titleEn: string;
+}
+
+export const yiEntries: AlmanacEntry[] = [
+  { index: 1, title: '开市', titleEn: 'Launch a new venture' },
+  { index: 2, title: '拜访贵人', titleEn: 'Visit trusted mentors' },
+  { index: 3, title: '签约', titleEn: 'Sign key agreements' },
+  { index: 4, title: '进修', titleEn: 'Invest in upskilling' },
+  { index: 5, title: '栽种', titleEn: 'Plant something green' },
+  { index: 6, title: '整理', titleEn: 'Organize your spaces' },
+  { index: 7, title: '短途出行', titleEn: 'Take a short trip' },
+  { index: 8, title: '行善', titleEn: 'Do a good deed' },
+  { index: 9, title: '重构遗留代码', titleEn: 'Refactor legacy code' },
+  { index: 10, title: 'Pair Programming', titleEn: 'Pair program' },
+  { index: 11, title: 'Review PR 时善意评论', titleEn: 'Leave kind PR comments' },
+  { index: 12, title: '替队友写脚本提效', titleEn: 'Write helper scripts for teammates' },
+  { index: 13, title: '提早提交工时', titleEn: 'Submit timesheets early' },
+  { index: 14, title: '配置本地缓存镜像', titleEn: 'Set up local cache mirrors' },
+  { index: 15, title: '调研新框架', titleEn: 'Research a new framework' },
+  { index: 16, title: '给 CLI 加彩蛋', titleEn: 'Hide an Easter egg in the CLI' },
+  { index: 17, title: '开源项目捉 bug', titleEn: 'Squash bugs in open source' },
+  { index: 18, title: '写测试覆盖率', titleEn: 'Boost test coverage' },
+  { index: 19, title: '午后晒太阳', titleEn: 'Soak up the afternoon sun' },
+  { index: 20, title: '写手账', titleEn: 'Journal by hand' },
+  { index: 21, title: '研究一款冷门语言', titleEn: 'Explore an obscure language' },
+  { index: 22, title: '整理收藏的表情包', titleEn: 'Curate your sticker stash' },
+  { index: 23, title: '灌一棵绿植', titleEn: 'Water a houseplant' },
+  { index: 24, title: '给未来项目写 README', titleEn: 'Draft a README for a future project' },
+  { index: 25, title: '学习一段书法', titleEn: 'Practice calligraphy' },
+  { index: 26, title: '尝试不用鼠标工作', titleEn: 'Work without touching the mouse' },
+  { index: 27, title: '午睡 20 分钟', titleEn: 'Take a 20-minute nap' },
+  { index: 28, title: '穿最喜欢的袜子', titleEn: 'Wear your favorite socks' },
+  { index: 29, title: '在便签上画小动物', titleEn: 'Doodle critters on sticky notes' },
+  { index: 30, title: '翻开一本随机旧书', titleEn: 'Open a random old book' },
+  { index: 31, title: '跟洗衣机讨论人生哲学', titleEn: 'Discuss philosophy with the washer' },
+  { index: 32, title: '赶海式清理下载文件夹', titleEn: 'Beach-comb the downloads folder' },
+  { index: 33, title: '尝试在脑内画流程图', titleEn: 'Draw flowcharts in your mind' },
+  { index: 34, title: '戴一顶奇怪的帽子', titleEn: 'Rock a wonderfully weird hat' },
+  { index: 35, title: '用左手刷牙', titleEn: 'Brush teeth with your off-hand' },
+  { index: 36, title: '写一封邮件给十年后的自己', titleEn: 'Email your future self ten years out' },
+  { index: 37, title: '顺其自然', titleEn: 'Go with the flow' },
+  { index: 38, title: '尝试新的键盘布局', titleEn: 'Test-drive a new keyboard layout' },
+  { index: 39, title: '和陌生人点头微笑', titleEn: 'Nod and smile at strangers' },
+  { index: 40, title: '午餐加入一种未知蔬菜', titleEn: 'Add a mystery veggie to lunch' },
+];
