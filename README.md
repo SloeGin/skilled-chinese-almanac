@@ -2,7 +2,7 @@
 
 React + Vite 构建的双语老黄历体验，结合「技能」玩法，让传统宜/忌变得更有互动感。项目支持 Firebase Hosting 部署，并提供可分享的 deterministic hash。
 
-在线 Demo：****
+在线 Demo：**https://sloegin.github.io/skilled-chinese-almanac/**
 
 ## ✨ 功能概览
 
